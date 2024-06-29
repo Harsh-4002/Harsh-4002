@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Kant Gupta</h1>
-<h3 align="center">I'm a Flutter developer I build beautiful and functional mobile apps</h3>
+<h3 align="center">I'm an App  developer I build beautiful and functional mobile apps</h3>
 
 - 🔭 I’m currently in **BCA 3rd Year**
 
